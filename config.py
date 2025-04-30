@@ -2,26 +2,25 @@ import os
 
 class Config(object):
     
-    BOT_TOKEN = "8012231272:AAFITViiSvq-2hXqbCaS4VBwHahNsim-woE"
+    BOT_TOKEN = "8003649544:AAGoiThVN8KLJyKGsGf1BcfTsjDTrSmjFR8"
     
-    API_ID = 12475131
+    API_ID = 27900743
     
-    API_HASH = "719171e38be5a1f500613837b79c536f"
-    ADMIN_ID = [12475131]
+    API_HASH = "ebb06ea8d41420e60b29140dcee902fc"
+    ADMIN_ID = [7804396225]
     
-    DB_URL = "mongodb+srv://tmglcd:kI1UijMr2jJXyOXY@cluster0.unjzi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-    
+    DB_URL = mongodb+srv://rsrasasingh:FS2G9YbI28KbPHLC@cluster0.yljr3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DB_NAME = "MY_BOT_DB"
     
-    TXT_LOG = -1002542634912
+    TXT_LOG = -1002566364060
     
-    AUTH_LOG = -1002542634912
+    AUTH_LOG = -1002566364060
     
-    HIT_LOG = -1002542634912
+    HIT_LOG = -1002566364060
     
-    DRM_DUMP = -1002542634912
+    DRM_DUMP = -1002566364060
     # Main channel ki ID
-    CHANNEL = -1002542634912
+    CHANNEL = -1002566364060
     # Channel ka link
     CH_URL = "https://t.me/gjskisb"
     
