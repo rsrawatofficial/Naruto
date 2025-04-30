@@ -9,7 +9,7 @@ class Config(object):
     API_HASH = "ebb06ea8d41420e60b29140dcee902fc"
     ADMIN_ID = [7804396225]
     
-    DB_URL = mongodb+srv://rsrasasingh:FS2G9YbI28KbPHLC@cluster0.yljr3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+    DB_URL = "mongodb+srv://rsrasasingh:FS2G9YbI28KbPHLC@cluster0.yljr3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     DB_NAME = "MY_BOT_DB"
     
     TXT_LOG = -1002566364060
